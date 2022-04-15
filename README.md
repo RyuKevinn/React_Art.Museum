@@ -16,7 +16,7 @@ Link - https://ryukevinn.github.io/React_Art.Museum/
 
 ---------------------------------
 
-사용 언어 : HTML5 / React / StyleSheet (CSS3)
+사용 언어 : HTML5 / React / SCSS
 
 ---------------------------------
 
