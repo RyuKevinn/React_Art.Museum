@@ -12,7 +12,7 @@ Link - https://ryukevinn.github.io/React_Art.Museum/
 
 ---------------------------------
 
-사용 프로그램 : VSC (Visual Studio Code)
+사용 에디터 : VSC (Visual Studio Code)
 
 ---------------------------------
 
