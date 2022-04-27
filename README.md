@@ -1,6 +1,7 @@
 # React_Art.Museum
 
 Link - https://ryukevinn.github.io/React_Art.Museum/
+*코드 확인은 .zip 파일에서 확인
 
 -----------------------------
 
@@ -19,5 +20,6 @@ Link - https://ryukevinn.github.io/React_Art.Museum/
 사용 언어 : HTML5 / React / SCSS
 
 ---------------------------------
+3D Cube 에 SCSS Transform 속성을 사용하여 입체적 효과 적용
 
 ![KakaoTalk_20220415_094720540](https://user-images.githubusercontent.com/96170774/163500642-b8224e64-6f1f-48a9-8716-96a02462120e.png)
